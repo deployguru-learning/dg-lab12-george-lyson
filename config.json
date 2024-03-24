@@ -1,0 +1,9 @@
+{
+  "george": {
+    "georgelysonglo@gmail.com": ["dg-lamp-server", "dg-cloud9-ide"]
+  },
+  "ellie": {
+    "eliebamunoiba@gmail.com": ["dg-lamp-server", "dg-ubuntu-server"]
+  },
+  "slack_webhook_url": "https://hooks.slack.com/services/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"
+}
